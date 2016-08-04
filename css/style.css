@@ -176,3 +176,12 @@ i.fa-facebook-square:hover {color: #3b5998;}
 i.fa-github-alt:hover {color: purple;}
 
 i.fa-calendar:hover {color: crimson;}
+
+/*Responsive*/
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+
+.tabs {
+
+	max-width: 100vw;}
+}
